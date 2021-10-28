@@ -95,3 +95,6 @@ int main() {
                 
 
 ![C++17 Structured Bindings – Steve Lorimer – Notes on C++, Linux and other topics](https://user-images.githubusercontent.com/69664057/139235302-5ddbab72-4e74-4e00-a24b-9a6646c39892.jpg)
+
+                  
+                  ![C++17 Structured Bindings – Steve Lorimer – Notes on C++, Linux and other topics](https://user-images.githubusercontent.com/69664057/139237135-a3a02692-e133-47cf-9199-a405efb34504.jpg)
