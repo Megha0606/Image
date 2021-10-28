@@ -89,4 +89,9 @@ int main() {
 
 
 ![flow-chart-of-break-statementDone jpg](https://user-images.githubusercontent.com/69664057/139235063-be888689-e5b6-4650-9b84-85203419b3db.jpg)
+                  
+                  
+                  
+                
 
+![C++17 Structured Bindings – Steve Lorimer – Notes on C++, Linux and other topics](https://user-images.githubusercontent.com/69664057/139235302-5ddbab72-4e74-4e00-a24b-9a6646c39892.jpg)
