@@ -32,6 +32,7 @@ int main()
       cout << i << "  ";
       i++;
    }
+                   ![mmmm](https://user-images.githubusercontent.com/69664057/139234593-b0680471-9453-44c1-b8bb-1b3fc9fe3d19.jpg)
 
 }
 
